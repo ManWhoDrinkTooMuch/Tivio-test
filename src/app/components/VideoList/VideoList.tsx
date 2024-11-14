@@ -1,4 +1,3 @@
-
 export const VideoList = () => {
     const videoList = [
         {
